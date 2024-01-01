@@ -1,0 +1,15 @@
+create a workspace : 
+copy the workspace id in order to use it on colab 
+create an access token : 
+access the workspace 
+click on finetuning -> create new fine tuning -> select the desired model 
+In gradient we have to use a specific format for the inputs : see documentation for more resources : 
+https://docs.gradient.ai/docs/tips-and-tricks
+
+to see the created model : 
+go to gradient.ai 
+go to the workspace -> models and you will find your model if it was created 
+
+test the model on the gradient ai platform : 
+go to gradient.ai 
+go to the workspace -> models -> select the model and click on test -> give him prompts you want to test 
